@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "283483078580",
+    "firebase_url": "https://studysynergy-caae1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "studysynergy-caae1",
+    "storage_bucket": "studysynergy-caae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283483078580:android:23366cb2cf29cdfaa73ce1",
+        "android_client_info": {
+          "package_name": "tip.edu.ph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG17kFnPPYg-jM6NfCUK7IhBcPKTi2QWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
